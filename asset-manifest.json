@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tregadevs/static/css/main.32645b62.css",
+    "main.js": "/tregadevs/static/js/main.d63df431.js",
+    "static/media/web.jpg": "/tregadevs/static/media/web.4824feaab6f0d9d35a05.jpg",
+    "static/media/p4.png": "/tregadevs/static/media/p4.a397ffb9e50f79f62411.png",
+    "static/media/p2.png": "/tregadevs/static/media/p2.5961d0f3eb005766d51b.png",
+    "static/media/uiux.jpg": "/tregadevs/static/media/uiux.5f069dcd7fe0a4bef381.jpg",
+    "static/media/Wip.gif": "/tregadevs/static/media/Wip.fe937e25a2d0677dc27a.gif",
+    "static/media/p1.png": "/tregadevs/static/media/p1.04e33f4db88404fc1a58.png",
+    "static/media/p5.png": "/tregadevs/static/media/p5.84f03ba9908626bf82bc.png",
+    "static/media/app.jpg": "/tregadevs/static/media/app.35bf74244c2f30f1cc19.jpg",
+    "static/media/p3.png": "/tregadevs/static/media/p3.545861f1abd6697801f8.png",
+    "static/media/Hero.png": "/tregadevs/static/media/Hero.cfa34201eb0d4c315ea0.png",
+    "static/media/hero.svg": "/tregadevs/static/media/hero.09431a49b158b1905523f18d9abe3290.svg",
+    "static/media/TregoDev's Logo.png": "/tregadevs/static/media/TregoDev's Logo.8537b99e3c96350cf1f8.png",
+    "index.html": "/tregadevs/index.html",
+    "main.32645b62.css.map": "/tregadevs/static/css/main.32645b62.css.map",
+    "main.d63df431.js.map": "/tregadevs/static/js/main.d63df431.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32645b62.css",
+    "static/js/main.d63df431.js"
+  ]
+}
