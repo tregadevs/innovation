@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.32645b62.css",
-    "main.js": "/static/js/main.c0fbedfa.js",
+    "main.css": "/static/css/main.81159d9f.css",
+    "main.js": "/static/js/main.dec49948.js",
     "static/media/web.jpg": "/static/media/web.4824feaab6f0d9d35a05.jpg",
     "static/media/p4.png": "/static/media/p4.a397ffb9e50f79f62411.png",
     "static/media/p2.png": "/static/media/p2.5961d0f3eb005766d51b.png",
@@ -13,13 +13,12 @@
     "static/media/p3.png": "/static/media/p3.545861f1abd6697801f8.png",
     "static/media/Hero.png": "/static/media/Hero.cfa34201eb0d4c315ea0.png",
     "static/media/hero.svg": "/static/media/hero.09431a49b158b1905523f18d9abe3290.svg",
-    "static/media/TregoDev's Logo.png": "/static/media/TregoDev's Logo.8537b99e3c96350cf1f8.png",
     "index.html": "/index.html",
-    "main.32645b62.css.map": "/static/css/main.32645b62.css.map",
-    "main.c0fbedfa.js.map": "/static/js/main.c0fbedfa.js.map"
+    "main.81159d9f.css.map": "/static/css/main.81159d9f.css.map",
+    "main.dec49948.js.map": "/static/js/main.dec49948.js.map"
   },
   "entrypoints": [
-    "static/css/main.32645b62.css",
-    "static/js/main.c0fbedfa.js"
+    "static/css/main.81159d9f.css",
+    "static/js/main.dec49948.js"
   ]
 }
