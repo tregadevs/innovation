@@ -1,6 +1,6 @@
 import React from "react";
 import {Link} from "react-router-dom";
-import Logo from "../assets/TregoDev's Logo.png";
+import Logo from "../assets/TregaDevsLogo.png";
 
 const Footer = () => {
   return (
@@ -61,7 +61,7 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="hover:underline">
+                    <a target="_blank" href="https://www.linkedin.com/company/tregadev-s-inc/" class="hover:underline">
                       Linkedin
                     </a>
                   </li>
