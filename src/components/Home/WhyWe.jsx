@@ -25,17 +25,17 @@ const dataItems = [
 
 const WhyWe = () => {
   return (
-    <div className='py-8 px-8 bg-purple-700'>
+    <div className='py-8 px-8 bg-purple-700 flex flex-col items-center '>
         <div className='text-center'>
-            <h3 className='font-semibold text-2xl text-white'>Why We</h3>
-            <h2 className='font-bold text-xl'>Here is the reason, Why should you select us!</h2>
+            <h3 className='font-semibold text-2xl text-black underline animate-pulse'>Why We</h3>
+            {/* <h2 className='font-semibold text-xl '>Here is the reason, Why should you select us!</h2> */}
         </div>
-        <div>
+        <div >
             {dataItems.map((e)=> {
                 return(
-                    <div className='flex gap-2 w-4/5 mx-auto font-semibold my-4'>
-                        <div className='text-2xl border-gray-600 border-solid rounded-full bg-white px-2 shadow-2xl drop-shadow-xl max-h-9 min-w-fit'>{e.key}</div>
-                        <div className='text-xl flex items-center'>{e.text}</div>
+                    <div className='flex gap-3 w-4/5 mx-auto font-semibold my-4 items-center'>
+                        <div className='text-gray-800 text-2xl border-gray-600 border-solid rounded-full bg-green-700 px-2 shadow-2xl drop-shadow-xl max-h-9 min-w-fit animate-bounce'>{e.key}</div>
+                        <div className='p-1 shadow text-xl text-white flex items-center'>{e.text}</div>
                     </div>
                 )
             })}

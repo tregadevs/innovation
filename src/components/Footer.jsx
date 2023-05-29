@@ -4,12 +4,12 @@ import Logo from "../assets/TregaDevsLogo.png";
 
 const Footer = () => {
   return (
-    <div>
-      <footer class="bg-gray-900">
+    <div className="bg-gray-900 p-2">
+      <footer class=" shadow shadow-white rounded-xl border">
         <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
           <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">
-              <Link to="/" class="flex items-center">
+              <a href="/#home" class="flex items-center">
                 
                 <img
                   src={Logo}
@@ -19,7 +19,7 @@ const Footer = () => {
                 <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">
                   TregaDev's
                 </span>
-              </Link>
+              </a>
             </div>
             <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
               <div>
@@ -90,7 +90,7 @@ const Footer = () => {
           <div class="flex items-center justify-between">
             <span class="text-sm  text-center text-gray-400">
               © 2023 
-              <a href="/" class="hover:underline">
+              <a href="#home" class="hover:underline">
                 TregaDev's™
               </a>
               . All Rights Reserved.

@@ -7,7 +7,7 @@ import {Link} from "react-router-dom";
 
 const ServicesSec = () => {
   return (
-    <div className="bg-purple-700 mt-1 py-8">
+    <div className=" bg-purple-700 mt-1 py-8">
       <div className="text-white font-extrabold text-center text-xl">
         <h1>Our Services</h1>
       </div>

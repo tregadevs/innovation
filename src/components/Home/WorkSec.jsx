@@ -43,10 +43,10 @@ const WorkSec = () => {
           efficient digital solution
         </p>
       </div>
-      <div className="flex flex-wrap w-full sm:w-4/5 mx-auto items-center justify-center gap-4">
+      <div className="my-14 flex flex-wrap w-full sm:w-4/5 mx-auto items-center justify-center gap-4 ">
         {Data.map((e) => {
           return (
-            <div className="shadow-2xl drop-shadow-lg rounded-xl h-auto w-1/3 sm:w-1/3 md:w-1/4">
+            <div className="hover:border-2 hover:border-black hover:shadow delay-75 transition-all hover:scale-150 hover:z-50 shadow-2xl drop-shadow-lg rounded-xl h-auto w-1/3 sm:w-1/3 md:w-1/4">
               <img className="rounded-xl" src={e.img} alt={e.title} />
             </div>
           );
