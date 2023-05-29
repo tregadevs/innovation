@@ -57,8 +57,7 @@ const data = [
 
 const Services = () => {
   return (
-    <div>
-      <div></div>
+    <div className="my-4">
       <div className="flex flex-wrap gap-x-8 gap-y-4  m-auto items-center justify-center">
         {data.map((e) => {
           return (
