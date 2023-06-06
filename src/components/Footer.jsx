@@ -56,12 +56,12 @@ const Footer = () => {
                 </h2>
                 <ul class="text-gray-600 dark:text-gray-400 font-medium">
                   <li class="mb-4">
-                    <a href="#" class="hover:underline ">
+                    <a href="/" class="hover:underline ">
                       Github
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href="https://www.linkedin.com/company/tregadev-s-inc/" class="hover:underline">
+                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/tregadev-s-inc/" class="hover:underline">
                       Linkedin
                     </a>
                   </li>
@@ -73,12 +73,12 @@ const Footer = () => {
                 </h2>
                 <ul class="text-gray-400 font-medium">
                   <li class="mb-4">
-                    <a href="#" class="hover:underline">
+                    <a href="/" class="hover:underline">
                       Privacy Policy
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="hover:underline">
+                    <a href="/" class="hover:underline">
                       Terms &amp; Conditions
                     </a>
                   </li>
