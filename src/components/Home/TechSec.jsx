@@ -9,7 +9,7 @@ import hero from "../../assets/hero.svg";
 
 const TechSec = () => {
   return (
-    <div>
+    <div className="pb-8">
       <div className="text-center font-extrabold py-4">
         <h2>Tech we Use 👨‍💻</h2>
       </div>
@@ -80,9 +80,9 @@ const TechSec = () => {
           </div>
         </div>
       </div>
-      <div className="w-3/4 mx-auto items-center mt-8 mb-0 pb-0">
+      {/* <div className="w-3/4 mx-auto items-center mt-8 mb-0 pb-0">
         <img src={hero} alt="" />
-      </div>
+      </div> */}
     </div>
   );
 };
