@@ -16,8 +16,8 @@ const Footer = () => {
                   class="h-24 mr-3"
                   alt="TregaDev's Logo"
                 />
-                <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">
-                  TregaDev's
+                <span class="self-center text-2xl font-semibold whitespace-nowrap name-logo">
+                Tregadevs
                 </span>
               </a>
             </div>

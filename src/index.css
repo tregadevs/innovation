@@ -16,3 +16,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.name-logo {
+  background: -webkit-linear-gradient(135deg, rgba(44,53,108,1) 0%, rgba(118,189,252,1) 80%, rgba(39,152,249,1) 100%, rgba(59,156,251,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
